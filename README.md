@@ -39,7 +39,7 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 - https://www.programiz.com/python-programming/examples/add-number
 
 # 8. Imagenes
-![MTY](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caminoreal.com%2Findex.php%2Fen%2Fblog%2Fpost%2Flos-pueblos-magicos-que-puedes-visitar-cerca-de-monterrey&psig=AOvVaw3Anw6EhNm0BXq62n_RmFK0&ust=1710951922976000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCoy-HegIUDFQAAAAAdAAAAABAD)
+![MTY](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DelValleCity.jpg/450px-DelValleCity.jpg)
 
 # 9. Tabla 
 | Syntax | Description |
